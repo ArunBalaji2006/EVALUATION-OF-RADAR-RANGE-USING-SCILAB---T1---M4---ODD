@@ -47,6 +47,8 @@ Where:
 
 
 ## RESULT: 
+<img width="591" height="1280" alt="EX - 8 AC" src="https://github.com/user-attachments/assets/3c456e12-a207-4c1b-a9a0-5c9f4c787e3e" />
+
 Thus, the maximum range of the RADAR system using radar equation verified 
 
 
